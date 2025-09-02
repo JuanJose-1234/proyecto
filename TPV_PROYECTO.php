@@ -210,6 +210,7 @@ if (mysqli_num_rows($tabla1) == 0){
         
         </div>
         <p class="restablecer_lista" id="restablecer"> Restablecer </p>
+        <p> Holi </p>
      </div>
 
      <script>
