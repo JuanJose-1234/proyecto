@@ -209,7 +209,7 @@ if (mysqli_num_rows($tabla1) == 0){
           </ol>
         
         </div>
-        <p class="restablecer_lista" id="restablecer"> Restablecer </p>J
+        <p class="restablecer_lista" id="restablecer"> Restablecer </p>
      </div>
 
      <script>
