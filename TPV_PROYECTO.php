@@ -48,6 +48,7 @@ if (mysqli_num_rows($tabla1) == 0){
 } else {
     echo "Ya hay registros";
 }
+mysqli_close($connexion)
 
 
 ?>
